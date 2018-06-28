@@ -1,0 +1,29 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+#links {
+	color: #775253
+}
+
+.btn {
+	background-color:white; 
+	border: none;
+	color: black;
+	
+}
+
+.navbar-default {
+	background-color:white; 
+	color: black;
+}
+body{
+	background-color: #F2F2F2
+}
+.navbar-default .navbar-nav>li>a {
+    color: #3A3042;
+}
+
+.navbar-default .navbar-brand {
+    color: #3A3042;
+}

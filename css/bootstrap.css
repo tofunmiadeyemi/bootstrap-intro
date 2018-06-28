@@ -14,16 +14,44 @@ body {
 }
 
 .navbar-default {
-	background-color:white; 
-	color: black;
+	background-color:#916261; 
 }
 body{
 	background-color: #F2F2F2
 }
 .navbar-default .navbar-nav>li>a {
-    color: #3A3042;
+    color: #DDDDDD
 }
 
 .navbar-default .navbar-brand {
+    color: #DDDDDD;
+}
+
+.btn-primary {
+    background-color: white;
+    border-color: white;
+    color: #69547A;
+}
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
     color: #3A3042;
+    background-color: #F2F2F2;
+}
+
+h2{
+	color:#B88E8D; 
+}
+
+.container{
+	background-color: #F2F2F2
+
+}
+#row2{
+	padding-left: 35px;
+}
+
+div {
+	border-color: #3A3042;
 }
